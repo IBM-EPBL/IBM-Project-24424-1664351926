@@ -34,5 +34,5 @@
 - [x] Assignment 2  <br>
 <br>
 
-<h2><img src="https://media0.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e4718qzcm0rnb6rpdizx2f3seigv4pf750olcrfi3do&rid=giphy.gif&ct=s" alt="tt" width=100 height=100>
+<h2><img src="https://media0.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e4718qzcm0rnb6rpdizx2f3seigv4pf750olcrfi3do&rid=giphy.gif&ct=s" alt="tt" width="45px">
 Code </h2>
