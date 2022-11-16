@@ -36,3 +36,30 @@
 
 <h2><img src="https://media0.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e4718qzcm0rnb6rpdizx2f3seigv4pf750olcrfi3do&rid=giphy.gif&ct=s" alt="tt" width="45px">
 Code </h2>
+<h3 align="left">  ECG Arrhythmia classification  <picture>
+  <source srcset="https://media.giphy.com/media/eH9sawQbajAQM/giphy.gif" type="image/webp">
+  <img src="https://media.giphy.com/media/eH9sawQbajAQM/giphy.gif" alt="❤" width="99" height="30">
+</picture> </h3>
+<p align="center">
+<a href="https://www.ibm.com/in-en">
+<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
+</a>
+   <a href="https://www.python.org/g">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
+  </a>
+
+  <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+   </a>
+ 
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    </a>
+ 
+ <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    </a>
+</p>
