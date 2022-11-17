@@ -16,9 +16,11 @@
 
 <br>
 
-<h2> 📃 Abstract:</h2><i>
+<h2 style="color:red;"> 📃 Abstract:</h2><i>
+<p> Classification of Arrhythmia by Using Deep Learning and Predicting of failure Heart
+</p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Domain</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Domain AI</h2>
 
 <p float="middle" align= "center">
   <img src="https://camo.githubusercontent.com/cc3bc7373eefc18f07892dad008c049e491c64c0cfed67e61407eec290da749b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a372d387230782d6e5270754a6d3762772e676966" width=300>
