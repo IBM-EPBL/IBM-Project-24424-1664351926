@@ -53,8 +53,9 @@ def upload():
         index = ['Left Bundle Branch Block', 'Normal', 'Premature Atrial Contraction',
                  'Premature Ventricular Contractions', 'Right Bundle Branch Block', 'Ventricular Fibrillation']
         result = str(index[pred[0]])
-        return result  # resturing the result
-    return None
+        return render_template('predict.html',data=path)
+    return result  # resturing the result
+    
 
 
 
