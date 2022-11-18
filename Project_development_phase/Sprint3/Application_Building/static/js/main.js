@@ -18,15 +18,15 @@ $(document).ready(function () {
     }
     $("#imageUpload").change(function () {
         $('.image-section').show();
-        $('#btn-predict').show();
+        $('.btn3').show();
         $('#result').text('');
         $('#result').hide();
         readURL(this);
     });
 
     // Predict
-    $('#btn-predict').click(function () {
-        var form_data = new FormData($('#upload-file')[0]);
+    $('.btn3').click(function () {
+        var form_data = new FormData($('UPLOAD_FOLDER')[0]);
 
         // Show loading animation
         $(this).hide();
