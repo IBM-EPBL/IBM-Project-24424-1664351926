@@ -11,7 +11,7 @@
    <li> Hemanth Suresh k</li>
    <li> Sriram K</<li>
    <li> Nitish k</li>
-   <li> Dhanush k</li>
+   <li> Dhanush M</li>
 </ul></i>
 
 <br>
